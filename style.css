@@ -1,0 +1,24 @@
+.text-counter {
+    margin-top: 400px;
+    text-align: center;
+    font-size: 5rem;
+}
+.text-number {
+    text-align: center;
+    color:green;
+    font-size: 5rem;
+
+}
+
+body {
+    background-color: black;
+}
+
+.row {
+
+}
+
+
+.text-counter {
+    color: yellow;
+}
